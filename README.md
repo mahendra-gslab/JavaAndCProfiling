@@ -1,4 +1,4 @@
-# JavaAndCProfiling
+# JavaAndCProfiling [Open this file in raw mode for better visiblity]
 Profiling assignment for Java and C for new engineers.
 
 Please watch your Home Work Kapsules here:- http://kpoint.gslab.com/playlist/view/128
