@@ -5,7 +5,7 @@ Please watch your Home Work Kapsules here:- http://kpoint.gslab.com/playlist/vie
 
 Submission of Assignment:-
 
-1) After completion of assignment send corrected file to email: mahendra.patel@gslab.com
+1) After completion of assignment send corrected file to email: gaurav.dhadiwal@gslab.com,mahendra.patel@gslab.com
 
 2) Only share the required files example only modified bst.c for Q1.
 3) Please mention new complexity of Q2 in email.   
